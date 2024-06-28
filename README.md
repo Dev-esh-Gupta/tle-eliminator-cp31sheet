@@ -30,7 +30,7 @@ The repository includes:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/tle-eliminator-cp31sheet.git
+   git clone https://github.com/Dev-esh-Gupta/tle-eliminator-cp31sheet.git
    ```
 
 2. **Navigate to the Repository:**
