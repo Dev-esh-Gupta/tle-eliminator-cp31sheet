@@ -2,7 +2,6 @@
 "TLE Eliminator CP31 Sheet Solutions: A repository dedicated to providing solutions to the Competitive Programming (CP) questions from TLE Eliminator's CP31 sheets. This resource aims to help programmers understand and solve these problems more effectively."
 
 
-```markdown
 # TLE Eliminator CP31 Sheet Solutions
 
 Welcome to the TLE Eliminator CP31 Sheet Solutions repository! This repository provides solutions to the Competitive Programming (CP) questions from TLE Eliminator's CP31 sheets. It's designed to help you understand and solve these problems more effectively.
@@ -63,4 +62,3 @@ Happy coding and happy problem-solving!
 ---
 
 [Devesh Gupta]
-```
